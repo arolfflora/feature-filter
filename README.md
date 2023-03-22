@@ -1,2 +1,3 @@
-# feature-filter
-a tool to clean data and select feature to promote final result before using model
+# feature_filter
+a tool to select feature and clean data to promote the final result before using model
+training data format is pandas.DataFrame()
